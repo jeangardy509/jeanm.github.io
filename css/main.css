@@ -2437,6 +2437,7 @@ header .header-logo a {
 
 .icon i {
   font-size: 10rem;
+	margin: 10px;
 }
 /* ===================================================================
  *  13. portfolio - (_layout.scss)
