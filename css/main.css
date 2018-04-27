@@ -1,6 +1,6 @@
 /* ===================================================================
  *
- *  Howdy v1.0 Main Stylesheet
+ *  Jean v1.0 Main Stylesheet
  *  08-13-2016
  *  ------------------------------------------------------------------
  *
@@ -1360,10 +1360,10 @@ header .header-logo a {
 	padding: 0;
 	outline: 0;
 	border: none;
-	width: 60px;
-	height: 60px;
+	width: 150px;
+	height: 120px;
 	background: url("../images/logo.png") no-repeat center;
-	background-size: 60px 60px;
+	background-size: 150px 150px;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
